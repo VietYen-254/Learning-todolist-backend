@@ -1,4 +1,4 @@
-package learning;
+package com.mylearning;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

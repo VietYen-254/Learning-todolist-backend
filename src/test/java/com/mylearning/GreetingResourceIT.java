@@ -1,4 +1,4 @@
-package learning;
+package com.mylearning;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
